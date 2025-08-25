@@ -57,6 +57,9 @@ Elegí este proyecto porque demuestra mi progreso en performance, permite compar
 - **Dashboard:** https://pamegutierrez.github.io/M7_Evaluacion_Rendimiento_Pame/jmeter-dashboard/  
 - **Repo base:** https://github.com/PameGutierrez/M7_Evaluacion_Rendimiento_Pame
 
+---
+
+![Matriz FODA](assets/img/foda.png)
 
 ---
 
