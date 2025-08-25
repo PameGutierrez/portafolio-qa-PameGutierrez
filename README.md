@@ -1,6 +1,6 @@
 # Portafolio QA – Pamela Gutiérrez Zamorano
 
-> **Mini pitch**  
+> **Sobre mí**  
 > Soy Pamela Gutiérrez, QA Automation en formación con base en Java, Selenium WebDriver y Cucumber/BDD; también realizo pruebas de performance con Apache JMeter. Trabajo con Git/Maven y publico reportes reproducibles (HTML en GitHub Pages). Me distingo por el orden, la documentación clara y el foco en métricas (P95, tasa de errores, throughput). Busco mi primera experiencia en un equipo que valore el aprendizaje continuo: llego lista para automatizar flujos críticos y convertir resultados en insights accionables para el negocio.
 
 ## Contacto
