@@ -1,3 +1,5 @@
+[Descargar informe en PDF](<docs/Proyecto ABP Prepárate para el mercado laboral.pdf>)
+
 # Portafolio QA – Pamela Gutiérrez Zamorano
 
 > **Sobre mí**  
